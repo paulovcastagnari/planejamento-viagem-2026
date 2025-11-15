@@ -11,8 +11,8 @@
 ---
 
 # 📅 Itinerário — Versão 1 (3 destinos principais)
-**Período:** *01/05/2026 a 13/05/2026*  
-**Duração:** *10 a 11 noites*
+**Período:** *01/05/2026 a 11/05/2026*  
+**Duração:** *10 noites*
 
 ---
 
@@ -33,9 +33,9 @@ gantt
 
     section Florença (+ Pisa + Siena)
     Viagem para Florença         :milestone, fl_arrive, 2026-05-07, 0d
-    Dia 1 – Pisa                 :2026-05-07, 1d
-    Dia 2 – Siena                :2026-05-08, 1d
-    Dia 3 – Florença             :2026-05-09, 1d
+    Dia 1 – Pisa                 :2026-05-08, 1d
+    Dia 2 – Siena                :2026-05-09, 1d
+    Dia 3 – Florença             :2026-05-10, 1d
     Tempo livre em Florença      :2026-05-10, 1d
 
     section Retorno
