@@ -32,6 +32,7 @@ gantt
 
     section Florença (+ Pisa + Siena)
     Viagem para Florença         :milestone, fl_arrive, 2026-05-07, 0d
+    Dia 0 – Florença             :2026-05-07, 1d
     Dia 1 – Pisa                 :2026-05-08, 1d
     Dia 2 – Siena                :2026-05-09, 1d
     Dia 3 – Florença             :2026-05-10, 1d
