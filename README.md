@@ -24,11 +24,11 @@ gantt
     title Itinerário de Viagem – Maio 2026
 
     section Roma
-    Chegada e estadia em Roma     :2026-05-01, 3d
+    Chegada e estadia em Roma     :2026-05-01, 2.5d
 
     section Cinque Terre
-    Viagem Roma → Cinque Terre   :milestone, ct_arrive, 2026-05-04, 0d
-    Estadia em Cinque Terre      :2026-05-04, 3d
+    Viagem Roma → Cinque Terre   :milestone, ct_arrive, 2026-05-04, 0.5d
+    Estadia em Cinque Terre      :2026-05-04, 2.5d
 
     section Florença (+ Pisa + Siena)
     Viagem para Florença         :milestone, fl_arrive, 2026-05-07, 0d
