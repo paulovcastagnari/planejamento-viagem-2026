@@ -25,7 +25,7 @@ gantt
     excludes weekends
 
     section Roma
-    Chegada e estadia em Roma     :2026-05-01, 3d
+    Chegada e estadia em Roma     :2026-05-01, 2d
 
     section Cinque Terre
     Viagem Roma → Cinque Terre   :milestone, ct_arrive, 2026-05-04, 0d
