@@ -27,7 +27,7 @@ gantt
     Chegada e estadia em Roma     :2026-05-01, 3d
 
     section Cinque Terre
-    Viagem Roma → Cinque Terre   :milestone, ct_arrive, 2026-05-04, 3d
+    Viagem Roma → Cinque Terre   :milestone, ct_arrive, 2026-05-04, 0d
     Estadia em Cinque Terre      :2026-05-04, 2.5d
 
     section Florença (+ Pisa + Siena)
