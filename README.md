@@ -22,7 +22,6 @@
 gantt
     dateFormat  YYYY-MM-DD
     title Itinerário de Viagem – Maio 2026
-    excludes weekends
 
     section Roma
     Chegada e estadia em Roma     :2026-05-01, 3d
