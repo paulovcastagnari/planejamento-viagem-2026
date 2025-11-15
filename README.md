@@ -36,7 +36,7 @@ gantt
     Dia 1 – Pisa                 :2026-05-08, 1d
     Dia 2 – Siena                :2026-05-09, 1d
     Dia 3 – Florença             :2026-05-10, 1d
-    Tempo livre em Florença      :2026-05-10, 1d
+    Tempo livre em Florença      :2026-05-11, 0.5d
 
     section Retorno
     Voo Florença → Brasil        :milestone, return_bra, 2026-05-11, 0d
