@@ -84,5 +84,5 @@ flowchart LR
 | Trecho | Valor |
 |--------|-------|
 | ✈️ GRU → Roma (FCO) | **R$ 3.971,17** |
-| ✈️ Roma (FCO) → GRU | **R$ 3.091,09** |
+| ✈️ Florença (FLR) → GRU | **R$ 3.091,09** |
 | **Total parcial aéreo** | **R$ 7.062,26** |
